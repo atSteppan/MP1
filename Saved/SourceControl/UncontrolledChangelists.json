@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Andrew/Documents/Code/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/Andrew/Documents/Code/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/Andrew/Documents/Code/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/Andrew/Documents/Code/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/Andrew/Documents/Code/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Material_001.uasset",
+				"C:/Users/Andrew/Documents/Code/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/heart_Plane_004.uasset",
+				"C:/Users/Andrew/Documents/Code/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"C:/Users/Andrew/Documents/Code/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/Material_001.uasset",
+				"C:/Users/Andrew/Documents/Code/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/MI_HealthPackMat.uasset",
+				"C:/Users/Andrew/Documents/Code/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/MI_Missile.uasset",
+				"C:/Users/Andrew/Documents/Code/CS415/InfiniteMatrixStarter/Content/Blueprints/BP_Missile.uasset",
+				"C:/Users/Andrew/Documents/Code/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Missile.uasset",
+				"C:/Users/Andrew/Documents/Code/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/wire_034034034.uasset",
+				"C:/Users/Andrew/Documents/Code/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Missile/Missile.uasset",
+				"C:/Users/Andrew/Documents/Code/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Missile/wire_006134113.uasset",
+				"C:/Users/Andrew/Documents/Code/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Missile/wire_034034034.uasset",
+				"C:/Users/Andrew/Documents/Code/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Missile/wire_088143225.uasset",
+				"C:/Users/Andrew/Documents/Code/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Missile/wire_088199225.uasset"
+			]
+		}
+	]
+}
